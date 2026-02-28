@@ -1,5 +1,5 @@
 
-## NEXA - Assistente Local com Ollama
+# NEXA - Assistente Local com Ollama
 <img src="https://img.shields.io/badge/Nexa-Assistant-blue" />
 <img src="https://img.shields.io/badge/Python-3.8%252B-green" />
 <img src="https://img.shields.io/badge/Ollama-Llama3%253A8b-orange" />
