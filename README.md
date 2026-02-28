@@ -28,15 +28,15 @@ ollama pull llama3:8b
 ### estrutura do projeto:
 nexa/
 │
-├── main.py              # Ponto de entrada
-├── ui.py                 # Interface gráfica e animações
-├── chat_engine.py        # Integração com Ollama
-├── assets/               # Animações do robô
-│   ├── idle/            # Frames do estado inativo
-│   ├── speaking/        # Frames falando
-│   ├── listening/       # Frames ouvindo
-│   ├── thinking/        # Frames pensando
-│   └── error/           # Frames de erro
+├── main.py
+├── ui.py
+├── chat_engine.py
+├── assets/
+│   ├── idle/
+│   ├── speaking/
+│   ├── listening/
+│   ├── thinking/
+│   └── error/
 │
 └── README.md
 
