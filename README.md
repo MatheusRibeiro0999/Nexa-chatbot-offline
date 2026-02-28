@@ -1,9 +1,9 @@
 
 ## NEXA - Assistente Local com Ollama
-https://img.shields.io/badge/Nexa-Assistant-blue
-https://img.shields.io/badge/Python-3.8%252B-green
-https://img.shields.io/badge/Ollama-Llama3%253A8b-orange
-https://img.shields.io/badge/CustomTkinter-GUI-purple
+<img src="https://img.shields.io/badge/Nexa-Assistant-blue" />
+<img src="https://img.shields.io/badge/Python-3.8%252B-green" />
+<img src="https://img.shields.io/badge/Ollama-Llama3%253A8b-orange" />
+<img src="https://img.shields.io/badge/CustomTkinter-GUI-purple" />
 
 chatbot que roda localmente sem API nem TOKENS
 Criei algumas emoções me inspirando no BMO de Hora da Aventura
