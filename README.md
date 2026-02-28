@@ -54,4 +54,4 @@ Desenvolvedor: Matheus Ribeiro
 Email: ribeiro.amrs@gmail.com
 GitHub: MatheusRibeiro0999
 
-### ⭐ Se gostou do projeto, não esqueça de dar uma estrela!
+## ⭐ Se gostou do projeto, não esqueça de dar uma estrela!
