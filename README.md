@@ -28,17 +28,29 @@ ollama pull llama3:8b
 ### estrutura do projeto:
 nexa/
 │
+
 ├── main.py
+
 ├── ui.py
+
 ├── chat_engine.py
+
 ├── assets/
+
 │   ├── idle/
+
 │   ├── speaking/
+
 │   ├── listening/
+
 │   ├── thinking/
+
 │   └── error/
+
 │
+
 └── README.md
+
 
 
 ### 📄 Licença
