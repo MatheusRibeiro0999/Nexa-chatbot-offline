@@ -9,23 +9,23 @@ chatbot que roda localmente sem API nem TOKENS
 Criei algumas emoções me inspirando no BMO de Hora da Aventura
 usei o Ollama3 na versão llama3:8b por ser a mais em conta (de processamento) 
 
-## Pré-requisitos:
+### Pré-requisitos:
 Python 3.8 ou superior
 Ollama instalado
 Modelo Llama 3 (8B) baixado via Ollama
 
-## Instalação:
+### Instalação:
 git clone https://github.com/MatheusRibeiro0999/nexa.git
 cd nexa
 pip install customtkinter pillow ollama 
 
-# Instale o Ollama (se não tiver)
-# Acesse https://ollama.ai/
+### Instale o Ollama (se não tiver)
+### Acesse https://ollama.ai/
 
-# Baixe o modelo Llama 3
+### Baixe o modelo Llama 3
 ollama pull llama3:8b
 
-## estrutura do projeto:
+### estrutura do projeto:
 nexa/
 │
 ├── main.py              # Ponto de entrada
@@ -41,15 +41,15 @@ nexa/
 └── README.md
 
 
-## 📄 Licença
+### 📄 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-## 🙏 Agradecimentos
+### 🙏 Agradecimentos
 Ollama - Pelo excelente gerenciamento de modelos locais
 CustomTkinter - Pela biblioteca de interface moderna
 Llama 3 - Pelo modelo de linguagem
 
-## 📧 Contato
+### 📧 Contato
 Desenvolvedor: Matheus Ribeiro
 Email: ribeiro.amrs@gmail.com
 GitHub: MatheusRibeiro0999
